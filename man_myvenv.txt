@@ -1,0 +1,5 @@
+vitaliy19@vitaliy19-System:~/Рабочий стол$ cd ..
+vitaliy19@vitaliy19-System:~$ cd djg
+vitaliy19@vitaliy19-System:~/djg$ python3 -m venv myvenv
+vitaliy19@vitaliy19-System:~/djg$ 
+
